@@ -4,15 +4,9 @@
 
 ### About me
 
-Hi, I’m **SamPurple**. Here are some facts about me:
+Hi, I’m **SamPurple**. I first started coding many years ago as a child using Basic - mostly *very* simple text adventures - but I ended up something completely different with my life.
 
-🟣 I first started coding many years ago using Basic - mostly *very* simple text adventures.
-
-🟣 But then did something completely different with my life.
-
-🟣 Have recently come back to coding out of curiorsity and was hooked.
-
-🟣 And I like purple.
+However, I recently bought a book on Python to help my daughter with her schoolwork.  I picked it up one day to have a browse out of curiosity, decided to have a go myself, and was instantly hooked.  After teaching myself some Python, I wanted to explore further and so I looked for more online resources so that I could learn more.  
 
 ### My experience
 
